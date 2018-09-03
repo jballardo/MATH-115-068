@@ -64,9 +64,9 @@ Below are the quizzes we've taken so far. If the solution for a quiz isn't liste
 ## Topics Covered
 
 **Current Week: 9/4 - 9/7**
-- Tuesday: 11.6 (Comparing Power functions, Exp functions, and Log functions) + Review
-- Wednesday: Review
-- Friday: Final! Good luck!
+- Tuesday: 1.1 - Linear Functions
+- Wednesday: 1.2 - Exponential Functions
+- Friday: 1.3 - New Functions from Old
 
 **Previous Week:**
 - Tuesday: 
