@@ -11,9 +11,9 @@ Joseph (Joe) Ballardo
 - Friday 1:00 PM - 2:30 PM MH 2436
 
 ## Office Hours (EH 4080)
-- Monday 11 AM - 12 PM
-- Wednesday 11 AM - 12 PM (Math Lab)
-- Friday 10 AM - 11 AM
+- TBD
+- TBD
+- TBD
 
 If you cannot make any of those office hours, I am more than willing to schedule alternative office hours with you!
 
