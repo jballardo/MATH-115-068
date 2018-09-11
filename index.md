@@ -11,9 +11,9 @@ Joseph (Joe) Ballardo
 - Friday 1:00 PM - 2:30 PM MH 2436
 
 ## Office Hours (EH 4080)
-- TBD
-- TBD
-- TBD
+- Monday 12pm - 1pm
+- Tuesday 11:50 am - 12:50 pm
+- Thursday 12 pm - 1pm (Math Lab)
 
 If you cannot make any of those office hours, I am more than willing to schedule alternative office hours with you!
 
@@ -63,16 +63,17 @@ Below are the quizzes we've taken so far. If the solution for a quiz isn't liste
 
 ## Topics Covered
 
-**Current Week: 9/4 - 9/7**
+**Current Week: 9/10 - 9/14**
+- Tuesday: 1.4 - Logarithmic Functions
+- Wednesday: 1.5 - Trigonometric  Functions
+- Friday: 1.6 - Power, Polynomial, and Rational Functions
+
+**Previous Week:**
 - Tuesday: 1.1 - Linear Functions
 - Wednesday: 1.2 - Exponential Functions
 - Friday: 1.3 - New Functions from Old
 
-**Previous Week:**
-- Tuesday: 
-- Wednesday: 
-- Friday: 
-
 ## Supplementary Material
-
+- [\[Inverse Functions\]] (inverse_functions.pdf)
+- [\[1.4 Groupwork\]] (1_4_groupwork.pdf
 
