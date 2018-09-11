@@ -74,6 +74,6 @@ Below are the quizzes we've taken so far. If the solution for a quiz isn't liste
 - Friday: 1.3 - New Functions from Old
 
 ## Supplementary Material
-- [\[Inverse Functions\]] (inverse_functions.pdf)
-- [\[1.4 Groupwork\]] (1_4_groupwork.pdf
+- [\Inverse Functions\](inverse_functions.pdf)
+- [\1.4 Groupwork\](1_4_groupwork.pdf)
 
