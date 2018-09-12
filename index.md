@@ -76,6 +76,6 @@ Below are the quizzes we've taken so far. If the solution for a quiz isn't liste
 ## Supplementary Material
 - [Inverse Functions](inverse_functions.pdf)
 - [1.4 Groupwork - Solving Equations with Logarithms](1_4_groupwork.pdf)
-- [ Solving Trig Equations ](trig_eqns.pdf)
-- [Sinusoidal Features](Sinusoidal_features.pdf)
+- [ Solving Trig Equations ](Trig_eqns.pdf)
+- [Sinusoidal Features](Sinusoidal_Features.pdf)
 
