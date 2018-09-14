@@ -59,6 +59,7 @@ Grades are posted via Canvas.
 
 Below are the quizzes we've taken so far. If the solution for a quiz isn't listed, this means we went over the solutions in class. If you want a PDF of the solutions, feel free to request them.
 - Quiz 1: [\[Document\]](105StudentGuideQuizSample.pdf)
+  - Extra Credit: [\[Document\]](EC1.pdf)
 
 
 ## Topics Covered
