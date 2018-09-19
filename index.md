@@ -58,21 +58,21 @@ Grades are posted via Canvas.
 ## Quizzes
 
 Below are the quizzes we've taken so far. If the solution for a quiz isn't listed, this means we went over the solutions in class. If you want a PDF of the solutions, feel free to request them.
-- Quiz 1: [\[Document\]](105StudentGuideQuizSample.pdf)
+- Quiz 1: [\[Document\]](Quiz_1.pdf) [\[Solutions\]](Quiz_1_sol.pdf)
   - Extra Credit: [\[Document\]](EC1.pdf)
 
 
 ## Topics Covered
 
 **Current Week: 9/10 - 9/14**
+- Tuesday: 1.7 - Introduction to Limits and Continuity
+- Wednesday: 1.8 - Extending the Idea of a Limit
+- Friday: 2.1 - How Do We Measure Speed?
+
+**Previous Week:**
 - Tuesday: 1.4 - Logarithmic Functions
 - Wednesday: 1.5 - Trigonometric  Functions
 - Friday: 1.6 - Power, Polynomial, and Rational Functions
-
-**Previous Week:**
-- Tuesday: 1.1 - Linear Functions
-- Wednesday: 1.2 - Exponential Functions
-- Friday: 1.3 - New Functions from Old
 
 ## Supplementary Material
 - [Inverse Functions](inverse_functions.pdf)
