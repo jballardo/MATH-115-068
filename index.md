@@ -66,7 +66,7 @@ Below are the quizzes we've taken so far. If the solution for a quiz isn't liste
 
 ## Topics Covered
 
-**Current Week: 9/10 - 9/14**
+**Current Week: 9/24 - 9/28**
 - Tuesday: 2.2 - The Derivative at a Point
 - Wednesday: 2.3 - The Derivative Function
 - Friday: 2.4 - Interpretations of the Derivative
