@@ -60,21 +60,21 @@ Grades are posted via Canvas.
 Below are the quizzes we've taken so far. If the solution for a quiz isn't listed, this means we went over the solutions in class. If you want a PDF of the solutions, feel free to request them.
 - Quiz 1: [\[Document\]](Quiz_1.pdf) [\[Solutions\]](Quiz_1_sol.pdf)
   - Extra Credit: [\[Document\]](EC1.pdf)
-- Quiz 2: [\[Document\]]
+- Quiz 2: 9/28/18
   - Extra Credit: [\[Document\]](EC2.pdf)
 
 
 ## Topics Covered
 
 **Current Week: 9/10 - 9/14**
+- Tuesday: 2.2 - The Derivative at a Point
+- Wednesday: 2.3 - The Derivative Function
+- Friday: 2.4 - Interpretations of the Derivative
+
+**Previous Week:**
 - Tuesday: 1.7 - Introduction to Limits and Continuity
 - Wednesday: 1.8 - Extending the Idea of a Limit
 - Friday: 2.1 - How Do We Measure Speed?
-
-**Previous Week:**
-- Tuesday: 1.4 - Logarithmic Functions
-- Wednesday: 1.5 - Trigonometric  Functions
-- Friday: 1.6 - Power, Polynomial, and Rational Functions
 
 ## Supplementary Material
 - [Inverse Functions](inverse_functions.pdf)
