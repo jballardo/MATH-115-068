@@ -60,16 +60,16 @@ Grades are posted via Canvas.
 Below are the quizzes we've taken so far. If the solution for a quiz isn't listed, this means we went over the solutions in class. If you want a PDF of the solutions, feel free to request them.
 - Quiz 1: [\[Document\]](Quiz_1.pdf) [\[Solutions\]](Quiz_1_sol.pdf)
   - Extra Credit: [\[Document\]](EC1.pdf)
-- Quiz 2: 9/28/18
+- Quiz 2: [\[Document\]](Quiz_2.pdf) [\[Solutions\]](Quiz_2_sol.pdf)
   - Extra Credit: [\[Document\]](EC2.pdf)
 
 
 ## Topics Covered
 
 **Current Week: 9/24 - 9/28**
-- Tuesday: 2.2 - The Derivative at a Point
-- Wednesday: 2.3 - The Derivative Function
-- Friday: 2.4 - Interpretations of the Derivative
+- Tuesday: 2.5 - The Second Derivative
+- Wednesday: 2.6 - Differentiability
+- Friday: 2.4 - Review
 
 **Previous Week:**
 - Tuesday: 1.7 - Introduction to Limits and Continuity
