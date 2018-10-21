@@ -62,23 +62,27 @@ Below are the quizzes we've taken so far. If the solution for a quiz isn't liste
   - Extra Credit: [\[Document\]](EC1.pdf)
 - Quiz 2: [\[Document\]](Quiz_2.pdf) [\[Solutions\]](Quiz_2_sol.pdf)
   - Extra Credit: [\[Document\]](EC2.pdf)
-
+- Attendance Quiz 1: Draw a Penguin
+  - [\[Solution\]](Penguin_sol.pdf)
+- Quiz 4: [\[Document\]](Quiz4.pdf) [\[\Solutions\]] (Quiz_4_sol.pdf)
 
 ## Topics Covered
 
-**Current Week: 9/24 - 9/28**
-- Tuesday: 2.5 - The Second Derivative
-- Wednesday: 2.6 - Differentiability
-- Friday: 2.4 - Review
+**Current Week: 10/22 - 10/28**
+- Tuesday: 3.7 - Implicit Functions
+- Wednesday: 3.9 - Linear Approximation and the Derivative
+- Friday: NOT IN BOOK - Quadratic Approximation & Mean Value Theorem
 
 **Previous Week:**
-- Tuesday: 1.7 - Introduction to Limits and Continuity
-- Wednesday: 1.8 - Extending the Idea of a Limit
-- Friday: 2.1 - How Do We Measure Speed?
+- Tuesday: Fall Break 
+- Wednesday: 3.4 - Chain Rule
+- Friday: 3.6 - Derivatives of Inverse Functions
 
 ## Supplementary Material
 - [Inverse Functions](inverse_functions.pdf)
 - [1.4 Groupwork - Solving Equations with Logarithms](1_4_groupwork.pdf)
 - [ Solving Trig Equations ](Trig_eqns.pdf)
 - [Sinusoidal Features](Sinusoidal_Features.pdf)
+- [3.4 Groupwork](Chain_rule_grpwrk.pdf)
+- [3.6 Groupwork](3_6_grpwrk.pdf)
 
