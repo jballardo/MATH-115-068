@@ -64,7 +64,7 @@ Below are the quizzes we've taken so far. If the solution for a quiz isn't liste
   - Extra Credit: [\[Document\]](EC2.pdf)
 - Attendance Quiz 1: Draw a Penguin
   - [\[Solution\]](Penguin_sol.pdf)
-- Quiz 4: [\[Document\]](Quiz4.pdf) [\[\Solutions\]] (Quiz_4_sol.pdf)
+- Quiz 4: [\[Document\]](Quiz4.pdf) [\[\Solutions\]](Quiz_4_sol.pdf)
 
 ## Topics Covered
 
